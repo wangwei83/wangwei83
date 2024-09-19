@@ -1,4 +1,4 @@
-简历： 国家工程实验室特聘研究员、电子科技大学博士后、四川大学博士、成都信息工程大学教师、专精特新企业技术总监，具备15年国际知名企业的智能软件算法产品研发管理经验。参与国防基础科研核科学挑战专题项目、保密通信国防科技重点实验室项目、国家自然科学基金面上项目、四川省重点研发项目等10余项科研项目；主持工业大数据应用技术国家工程实验室项目等4项纵横向课题。目前已发表SCI论文14篇，取得授权专利6项。担任IEEE Transactions on Network Science and Engineering、Biomedical Signal Processing and Control、Frontiers in Physics等知名期刊匿名评审人。主要研究方向包括工业数据挖掘、3D视觉感知等人工智能技术，并积极推进该领域的技术转移转化工作。Website: https://cdwangwei.site and https://github.com/wangwei83
+简历： 中国科学院成都分院分析测试中心特聘专家、中国自动化学会边缘计算专委会专委委员、国家工程实验室特聘研究员、电子科技大学博士后、四川大学博士、成都信息工程大学教师。四川省科技成果转化研究会会员、成都市技术经理人协会理事、专精特新知名企业资深工程师和技术顾问。参与国防基础科研核科学挑战专题项目、保密通信国防科技重点实验室项目、国家自然科学基金面上项目、四川省重点研发项目等10余项科研项目；主持国家工程实验室项目、教育部产学合作协同育人项目、成都市卫生健康委员会等5项纵横向课题。目前已发表SCI论文14篇，取得授权专利7项。担任IEEE Transactions on Network Science and Engineering、Biomedical Signal Processing and Control、Frontiers in Physics等知名期刊匿名评审人。主要研究方向包括医学和工业领域的数据挖掘、视觉感知等人工智能技术，并积极推进该领域的技术转移转化工作。Website: https://cdwangwei.site and https://github.com/wangwei83
 
 <!---
 - 👋 Hi, I’m @wangwei83
